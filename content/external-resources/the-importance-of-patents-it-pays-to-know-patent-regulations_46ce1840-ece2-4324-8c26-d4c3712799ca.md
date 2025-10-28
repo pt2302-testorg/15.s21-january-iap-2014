@@ -6,6 +6,6 @@ license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: unchecked
 title: '"The Importance of Patents: It Pays To Know Patent Regulations."'
 uid: 46ce1840-ece2-4324-8c26-d4c3712799ca
-url_status_code: 403
+url_status_code: 429
 wayback_url: ''
 ---
